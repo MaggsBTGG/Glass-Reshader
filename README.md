@@ -8,7 +8,6 @@ Create transparent, reflective glass in Blender, add optional dirt, and build a 
 
 | Requirement | What to install or check |
 | --- | --- |
-| Windows PC | The map builder uses Windows PowerShell and Microsoft C++ tools. |
 | Blender | The working creator workflow uses Blender 5.2. The original baseline was tested on 5.2.2; local export checks also used 4.5.3. Other versions are not guaranteed. |
 | ReSkate and supported game data | Game build **25414733**. Launch ReSkate once so its game folder and Mods folder exist. A different Steam game build will not pass the check. |
 | Compatible ReSkate Studio | You need **reskate_cli.exe AND its complete Studio folder**, including the bundled Blender converter. The CLI is the command-line tool the add-on runs automatically. ReSkate Studio.exe is a different file. |
