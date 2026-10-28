@@ -2,7 +2,7 @@
 
 Create transparent, reflective glass in Blender, add optional dirt, and build a playable ReSkate map.
 
-**Start here:** install the add-on ZIP in Blender. Keep this guide open while setting it up. This is the packaged 0.11.2 public beta; the working code and shaders are unchanged. The creator has confirmed the city test and Kamurocho integration work on their setup. Other hardware and mod combinations still need testing.
+**Start here:** install the add-on ZIP in Blender. Keep this guide open while setting it up. This is the packaged 0.11.2 public beta; the working code and shaders are unchanged. Have confirmed the city test and Kamurocho integration work on their setup. Other hardware and mod combinations still need testing.
 
 ## 1. What you need BEFORE building
 
@@ -108,7 +108,7 @@ When asking for help, include add-on/Blender/game versions and **Copy Build Deta
 
 ## 8. Current limits and release status
 
-- The creator confirmed independent reflection controls, different dirt images/modes, distant test groups and a successful 0.11.2 Kamurocho integration. This is a public beta, not a promise of universal compatibility.
+- Confirmed independent reflection controls, different dirt images/modes, distant test groups and a successful 0.11.2 Kamurocho integration. This is a public beta, not a promise of universal compatibility.
 - Distance filtering/mip selection is unfinished; dirt can shimmer at distance or steep angles.
 - LODs and streaming are not generated. Large maps and generated reflection probes can affect performance.
 - Reflection probes do not guarantee live mirror reflections of moving skaters. Moving objects and local-light behavior are not fully validated.
